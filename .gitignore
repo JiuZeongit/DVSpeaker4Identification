@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+result_*/
+.python-version
+pyproject.toml
+uv.lock
