@@ -117,15 +117,3 @@ If you find our work useful in your research, please cite:
 @misc{ 
 }
 ```
-
-```
-@misc{yao2026neurolipeventdrivenspatiotemporallearning,
-      title={NeuroLip: An Event-driven Spatiotemporal Learning Framework for Cross-Scene Lip-Motion-based Visual Speaker Recognition}, 
-      author={Junguang Yao and Wenye Liu and Stjepan Picek and Yue Zheng},
-      year={2026},
-      eprint={2604.15718},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2604.15718}, 
-}
-```
